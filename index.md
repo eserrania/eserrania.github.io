@@ -2,7 +2,7 @@
 
 I am an Economist and Data Scientist interested in leveraging data to address pressing policy issues.
 
-## Selected work
+## Selected projects
 
 ### [Interactive Visualization of homicide rates in Mexican municipalities (2011-2019)](https://eserrania.github.io/homicide_scatterplot/)
 Using d3.js, I designed an interactive scatterplot showing the evolution of homicide rates at the Municipal level. 
