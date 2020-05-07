@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/eserrania/eserrania.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an Economist and Data Scientist interested in leveraging data to address pressing policy issues.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Selected work
 
-### Markdown
+# [Interactive Visualization of homicide rates in Mexican municipalities (2011-2019)](https://eserrania.github.io/homicide_scatterplot/)
+Using d3.js, I designed an interactive scatterplot showing the evolution of homicide rates at the Municipal level. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Evolution of homicides in Mexico (2015-2019)](https://eserrania.github.io/homicides_mexico/)
+I developed a series of visualizations exploring the trends in homicides in Mexico using Python's altair. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eserrania/eserrania.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# [Machine Learning Pipeline for the identification of Police Officers at risk of adverse interactions with the public](https://eserrania.github.io/homicides_mexico/)
+This project was a collaboration with Andres Nigenda and Krista Chan.
