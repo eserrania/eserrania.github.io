@@ -10,5 +10,5 @@ Using d3.js, I designed an interactive scatterplot showing the evolution of homi
 ### [Evolution of homicides in Mexico (2015-2019)](https://eserrania.github.io/homicides_mexico/)
 I developed a series of visualizations exploring the trends in homicides in Mexico using Python's altair. 
 
-### [Machine Learning Pipeline for the identification of Police Officers at risk of adverse interactions with the public](https://eserrania.github.io/homicides_mexico/)
+### [Machine Learning Pipeline for the identification of Police Officers at risk of adverse interactions with the public](https://github.com/eserrania/chicago_police)
 This project was a collaboration with Andres Nigenda and Krista Chan.
