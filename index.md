@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## About Me
 
 Data Scientist with 6+ years of experience leveraging advanced analytics to inform decision making processes in the
