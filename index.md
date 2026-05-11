@@ -1,7 +1,3 @@
----
-layout: home
----
-
 ## About Me
 
 Data Scientist with 6+ years of experience leveraging advanced analytics to inform decision making processes in the
@@ -15,4 +11,3 @@ An AI agent that answers questions about crime and victim data in Colombia, quer
 
 ### [Interactive Visualization of homicide rates in Mexican municipalities (2011-2019)](https://eserrania.github.io/homicide_scatterplot/)
 Using d3.js, I designed an interactive scatterplot showing the evolution of homicide rates at the Municipal level. 
-
