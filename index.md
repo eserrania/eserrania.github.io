@@ -1,8 +1,7 @@
 ## About Me
 
 Data Scientist with 6+ years of experience leveraging advanced analytics to inform decision making processes in the
-policy, humanitarian and private sectors. Expert in building production-grade ML pipelines and AI agents to solve high-
-stakes challenges.
+policy, humanitarian and private sectors. Expert in building production-grade ML pipelines and AI agents to solve high-stakes challenges.
 
 ## Selected projects
 
